@@ -1,4 +1,4 @@
-package com.bitsecho.util.then
+package com.bitsecho.util
 
 fun <T>T.then(block: T.()->Unit): T {
     block()
