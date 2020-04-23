@@ -11,7 +11,7 @@ android {
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1
-        versionName "1.0.0"
+        versionName "1.0.1"
     }
 }
 
@@ -24,7 +24,7 @@ publish {
     userOrg = 'bitsecho'
     groupId = 'com.bitsecho.util'
     artifactId = 'then'
-    publishVersion = '1.0.0'
+    publishVersion = '1.0.1'
     desc = 'Sweet tiny syntactic sugar for Kotlin initializers.'
     website = 'https://github.com/BitsEcho/Then'
 }

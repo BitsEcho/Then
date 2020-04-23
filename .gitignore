@@ -8,3 +8,4 @@
 .externalNativeBuild
 .cxx
 ./then/build
+/then/build/
